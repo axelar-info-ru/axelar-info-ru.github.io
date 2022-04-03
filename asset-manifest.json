@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.14ec41a3.css",
-    "main.js": "/static/js/main.3182bf60.js",
+    "main.css": "/static/css/main.7e7ae50d.css",
+    "main.js": "/static/js/main.ccfb5ba7.js",
+    "static/media/intro.mp4": "/static/media/intro.609a3cb2d4f0c888e0e1.mp4",
+    "static/media/Swag_02.jpg": "/static/media/Swag_02.4385731011f23b837029.jpg",
     "static/media/main_slide1_mobile.jpg": "/static/media/main_slide1_mobile.02a9d7f1b128be48f608.jpg",
+    "static/media/Swag_01.jpg": "/static/media/Swag_01.f5f4811420787608a818.jpg",
     "static/media/main_slide1_pc.jpg": "/static/media/main_slide1_pc.e36d276675411e4ebde6.jpg",
     "static/media/main_slide2_modile.jpg": "/static/media/main_slide2_modile.131db0d7295c3223ade9.jpg",
     "static/media/main_slide2_pc.jpg": "/static/media/main_slide2_pc.d4b420e6e0e70cbe1106.jpg",
@@ -16,13 +19,31 @@
     "static/media/roadmap_mobile.jpg": "/static/media/roadmap_mobile.9b84ab699db29608504c.jpg",
     "static/media/roadmap_pc.jpg": "/static/media/roadmap_pc.23bdb58127b53841e5cd.jpg",
     "static/media/functional1_pc.jpg": "/static/media/functional1_pc.d13b66daea42d31ffd95.jpg",
+    "static/media/sticker3.jpeg": "/static/media/sticker3.c6ad278e68ba9c9e4db7.jpeg",
+    "static/media/sticker4.jpeg": "/static/media/sticker4.7f72f9d53967f893214e.jpeg",
+    "static/media/sticker11.jpeg": "/static/media/sticker11.1de01f9722228d42ee3a.jpeg",
+    "static/media/sticker13.jpeg": "/static/media/sticker13.8f180808749f2734c748.jpeg",
+    "static/media/sticker2.jpeg": "/static/media/sticker2.03a9beff1147b6cde85d.jpeg",
+    "static/media/sticker8.jpeg": "/static/media/sticker8.4b353a95c81a74c3db94.jpeg",
+    "static/media/sticker14.jpeg": "/static/media/sticker14.bafed6293cf1a1c44610.jpeg",
+    "static/media/sticker5.jpeg": "/static/media/sticker5.ea526e3ba309f0a3632b.jpeg",
+    "static/media/sticker10.jpeg": "/static/media/sticker10.361a660f2c13a0ea7902.jpeg",
+    "static/media/sticker6.jpeg": "/static/media/sticker6.643a7253170c3b9e8ae7.jpeg",
+    "static/media/sticker1.jpeg": "/static/media/sticker1.48e7eeffdb0b32b130f6.jpeg",
+    "static/media/sticker15.jpeg": "/static/media/sticker15.0fe7a5817ee70b82baaa.jpeg",
+    "static/media/sticker9.jpeg": "/static/media/sticker9.5c8886ae90a180a73318.jpeg",
+    "static/media/sticker12.jpeg": "/static/media/sticker12.44c3288b80b32a27d3da.jpeg",
+    "static/media/Swag_04.jpg": "/static/media/Swag_04.d6114569e8f664de0de2.jpg",
+    "static/media/Swag_03.jpg": "/static/media/Swag_03.07b78a294138ff7a95ef.jpg",
+    "static/media/sticker7.jpeg": "/static/media/sticker7.9101cb6c429c14a7cb63.jpeg",
+    "static/media/Swag_05.jpg": "/static/media/Swag_05.24c27b782b9eb1062985.jpg",
     "static/media/angle-arrow-down_icon-icons.com_73683.svg": "/static/media/angle-arrow-down_icon-icons.com_73683.780d3280896dc1ec8895ac796b899b3c.svg",
     "index.html": "/index.html",
-    "main.14ec41a3.css.map": "/static/css/main.14ec41a3.css.map",
-    "main.3182bf60.js.map": "/static/js/main.3182bf60.js.map"
+    "main.7e7ae50d.css.map": "/static/css/main.7e7ae50d.css.map",
+    "main.ccfb5ba7.js.map": "/static/js/main.ccfb5ba7.js.map"
   },
   "entrypoints": [
-    "static/css/main.14ec41a3.css",
-    "static/js/main.3182bf60.js"
+    "static/css/main.7e7ae50d.css",
+    "static/js/main.ccfb5ba7.js"
   ]
 }
